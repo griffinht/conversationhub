@@ -1,0 +1,4 @@
+- name: emoji
+  prompt: convert __INPUT__ to emoji
+- name: emoji2
+  prompt: convert my words to emoji
